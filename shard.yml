@@ -7,6 +7,6 @@ authors:
 crystal: 0.30.0
 
 scripts:
-  postinstall: cd fastText && make
+  postinstall: git clone https://github.com/facebookresearch/fastText.git && cd fastText && make
 
 license: MIT
