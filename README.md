@@ -1,4 +1,4 @@
-# FastText-crystal
+# fastText-crystal
 
 TODO: Write a description here
 
@@ -8,8 +8,8 @@ TODO: Write a description here
 
    ```yaml
    dependencies:
-     FastText-crystal:
-       github: your-github-user/FastText-crystal
+     fastText-crystal:
+       github: rmarronnier/fastText-crystal
    ```
 
 2. Run `shards install`
@@ -17,7 +17,7 @@ TODO: Write a description here
 ## Usage
 
 ```crystal
-require "FastText-crystal"
+require "FastText"
 ```
 
 TODO: Write usage instructions here
@@ -28,7 +28,7 @@ TODO: Write development instructions here
 
 ## Contributing
 
-1. Fork it (<https://github.com/your-github-user/FastText-crystal/fork>)
+1. Fork it (<https://github.com/rmarronnier/fastText-crystal/fork>)
 2. Create your feature branch (`git checkout -b my-new-feature`)
 3. Commit your changes (`git commit -am 'Add some feature'`)
 4. Push to the branch (`git push origin my-new-feature`)
@@ -36,4 +36,4 @@ TODO: Write development instructions here
 
 ## Contributors
 
-- [Rémy Marronnier](https://github.com/your-github-user) - creator and maintainer
+- [Rémy Marronnier](https://github.com/rmarronnier) - creator and maintainer
