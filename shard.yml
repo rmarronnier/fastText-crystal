@@ -7,6 +7,6 @@ authors:
 crystal: 0.30.0
 
 scripts:
-  postinstall: fastText/make
+  postinstall: cd fastText && make
 
 license: MIT
