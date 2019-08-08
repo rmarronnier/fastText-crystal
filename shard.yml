@@ -1,0 +1,12 @@
+name: fastText-crystal
+version: 0.1.0
+
+authors:
+  - Rémy Marronnier <rmarronnier@gmail.com>
+
+crystal: 0.30.0
+
+scripts:
+  postinstall: fastText/make
+
+license: MIT
